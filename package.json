@@ -1,0 +1,20 @@
+{
+  "name": "lalau",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "md5": "^2.3.0",
+    "node-spintax": "^1.0.4",
+    "node-youtube-music": "^0.3.5",
+    "venom-bot": "^3.0.21",
+    "youtube-mp3-downloader": "^0.7.7",
+    "youtube-music-api": "^1.0.6"
+  }
+}
